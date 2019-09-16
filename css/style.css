@@ -1341,8 +1341,12 @@ ol {
 	background: #9d1f2e;
 }
 
-.solid-service-box:hover h2 {
-	color: #222;
+.solid-service-box:hover h3 {
+	color: #fff;
+}
+
+.solid-service-box:hover p {
+	color: #fff;
 }
 
 .solid-service-box:hover .readmore {
