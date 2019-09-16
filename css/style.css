@@ -764,7 +764,17 @@ ol {
 	width: 50%;
 	height: 100%;
 	left: 0;
-	background-image: url("../img/crown-sign.jpg");
+	background-image: url("../img/CrownSignSystems2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.cta-section .cta-image-box2 {
+	position: absolute;
+	width: 50%;
+	height: 100%;
+	left: 0;
+	background-image: url("../img/crown-sign-systems.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
